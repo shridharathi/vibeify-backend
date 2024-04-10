@@ -1,0 +1,13 @@
+flask
+requests
+beautifulsoup4
+openai
+pinecone-client
+flask-cors
+python-dotenv
+gunicorn
+sseclient-py
+fastapi
+uvicorn
+spotipy
+Pillow
